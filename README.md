@@ -10,7 +10,7 @@ Curso superior em andamento - Tecnologia em Sistemas para Internet no Instituto 
 
 * 🌍  Moro em Campo Grande MS, Brasil
 * ✉️  Você pode entrar em contato comigo em [luizcortezcontato@gmail.com](mailto:luizcortezcontato@gmail.com)
-* 🚀  Apaixonado em resolver exercícios avançados de lógica de programação
+* 🚀  Apaixonado em resolver exercícios avançados de lógica de programação: https://www.beecrowd.com.br/judge/pt/profile/813394
 * 🧠  Atualmente estudando Javascript, React e SQL
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 
