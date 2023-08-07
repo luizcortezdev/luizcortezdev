@@ -1,7 +1,7 @@
-Hi 👋 My name is Guilhermo
+Olá 👋 Meu nome é Luiz Fernando
 ==========================
 
-Full Stack Software Developer
+Desenvolvedor Web
 -----------------------------
 
 Sou um desenvolvedor de 19 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é desenvolvimento front e back-end.
