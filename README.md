@@ -3,7 +3,7 @@ Olá 👋 Meu nome é Luiz Fernando
 Cloud DevOps, AWS, Linux, SQL, Java, Python 
 -----------------------------
 
-Sou um desenvolvedor de 20 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é DevOp.
+Sou um desenvolvedor de 20 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é DevOps.
 
 Curso superior em andamento - Tecnologia em Sistemas para Internet no Instituto Federal de Mato Grosso do Sul
 
