@@ -1,17 +1,16 @@
 Olá 👋 Meu nome é Luiz Fernando
 ==========================
-
-Desenvolvedor Web
+Cloud DevOps, AWS, Linux, SQL, Java, Python 
 -----------------------------
 
-Sou um desenvolvedor de 19 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é desenvolvimento front e back-end.
+Sou um desenvolvedor de 20 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é DevOp.
 
 Curso superior em andamento - Tecnologia em Sistemas para Internet no Instituto Federal de Mato Grosso do Sul
 
 * 🌍  Moro em Campo Grande MS, Brasil
 * ✉️  Você pode entrar em contato comigo em [luizcortezcontato@gmail.com](mailto:luizcortezcontato@gmail.com)
 * 🚀  Apaixonado em resolver exercícios avançados de lógica de programação: https://www.beecrowd.com.br/judge/pt/profile/813394
-* 🧠  Atualmente estudando Javascript, React e SQL
+* 🧠  Atualmente estudando Kubernetes e Docker
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 
 ### Skills
