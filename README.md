@@ -1,16 +1,15 @@
 Olá 👋 Meu nome é Luiz Fernando
 ==========================
-Cloud DevOps, AWS, Linux, SQL, Java, Python 
+Cloud Architect / DevOps
 -----------------------------
 
-Sou um desenvolvedor de 20 anos. Adoro codificar e descobrir como resolver problemas profundos usando logica de programação. Meu foco principal é DevOps.
+Sou Arquiteto Cloud, especializado em soluções AWS, com forte interesse em automação, infraestrutura como código e integração contínua.
 
 Curso superior em andamento - Tecnologia em Sistemas para Internet no Instituto Federal de Mato Grosso do Sul
 
 * 🌍  Moro em Campo Grande MS, Brasil
 * ✉️  Você pode entrar em contato comigo em [luizcortezcontato@gmail.com](mailto:luizcortezcontato@gmail.com)
-* 🚀  Apaixonado em resolver exercícios avançados de lógica de programação: https://www.beecrowd.com.br/judge/pt/profile/813394
-* 🧠  Atualmente estudando Kubernetes e Docker
+* 🧠  Atualmente estudando Kubernetes - CKA
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 
 ### Skills
