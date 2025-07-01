@@ -33,4 +33,4 @@ Curso superior em andamento - Tecnologia em Sistemas para Internet no Instituto 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/805201992192229436" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/discord-logo.png" width="32" height="32" /></a> <a href="https://www.github.com/luizcortezdev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/stickers/100/github.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luiz-fernando-7a3521287/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/stickers/100/linkedin.png" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.github.com/luizcortezdev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/stickers/100/github.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luiz-fernando-7a3521287/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/stickers/100/linkedin.png" width="32" height="32" /></a></p>
