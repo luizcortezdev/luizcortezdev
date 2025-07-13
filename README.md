@@ -1,6 +1,6 @@
 Olá 👋 Meu nome é Luiz Fernando
 ==========================
-Cloud Architect / DevOps
+Cloud Analyst / DevOps
 -----------------------------
 
 Sou Arquiteto Cloud, especializado em soluções AWS, com forte interesse em automação, infraestrutura como código e integração contínua.
